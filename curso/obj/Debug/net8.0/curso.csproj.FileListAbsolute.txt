@@ -12,3 +12,4 @@ C:\Users\Educação\Documents\Projetos\projeto\curso\obj\Debug\net8.0\refint\cur
 C:\Users\Educação\Documents\Projetos\projeto\curso\obj\Debug\net8.0\curso.pdb
 C:\Users\Educação\Documents\Projetos\projeto\curso\obj\Debug\net8.0\curso.genruntimeconfig.cache
 C:\Users\Educação\Documents\Projetos\projeto\curso\obj\Debug\net8.0\ref\curso.dll
+c:\Users\Educação\Documents\Projetos\projeto\curso\obj\Debug\net8.0\curso.sourcelink.json

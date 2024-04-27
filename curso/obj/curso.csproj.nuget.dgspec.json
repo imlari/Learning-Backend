@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Educação\\Documents\\Projetos\\projeto\\curso\\curso.csproj": {}
+    "c:\\Users\\Educação\\Documents\\Projetos\\projeto\\curso\\curso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Educação\\Documents\\Projetos\\projeto\\curso\\curso.csproj": {
+    "c:\\Users\\Educação\\Documents\\Projetos\\projeto\\curso\\curso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Educação\\Documents\\Projetos\\projeto\\curso\\curso.csproj",
+        "projectUniqueName": "c:\\Users\\Educação\\Documents\\Projetos\\projeto\\curso\\curso.csproj",
         "projectName": "curso",
-        "projectPath": "C:\\Users\\Educação\\Documents\\Projetos\\projeto\\curso\\curso.csproj",
+        "projectPath": "c:\\Users\\Educação\\Documents\\Projetos\\projeto\\curso\\curso.csproj",
         "packagesPath": "C:\\Users\\Educação\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Educação\\Documents\\Projetos\\projeto\\curso\\obj\\",
+        "outputPath": "c:\\Users\\Educação\\Documents\\Projetos\\projeto\\curso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Educação\\AppData\\Roaming\\NuGet\\NuGet.Config"

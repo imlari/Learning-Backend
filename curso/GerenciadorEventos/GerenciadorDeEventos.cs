@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace curso
+namespace curso.GerenciadorEventos
 {
-    public abstract class MembrosDaInstituicao
+    public class GerenciadorDeEventos
     {
         
     }
